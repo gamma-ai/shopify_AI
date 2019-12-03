@@ -31,8 +31,7 @@ This will help us to develop an automated tool to price the items to compete in 
 
 #### Automate the dropshipping process by optimizing the stores traffic by A/B testing the number of sales compared to incoming items.
 #### Output will be 
-(UNUSED FUNDS: 5100,
-IF I PAY $15, AND MY STARTING INVESTMENT IS: $6000, 
+(IF I PAY $15, AND MY STARTING INVESTMENT IS: $6000, 
 WITH AN INVENTORY OF: 60 ITEMS,
 WHILE I HAVE A PROFIT TARGET OF: $294.2307692307692 BIWEEKLY, 
 MY RETURNS WILL BE: 0.05769230769230769 PER SALE, 
