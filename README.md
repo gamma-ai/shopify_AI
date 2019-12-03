@@ -30,3 +30,15 @@ While the prices and items have been joined via the webscraper, we can now plot 
 This will help us to develop an automated tool to price the items to compete in the market.
 
 #### Automate the dropshipping process by optimizing the stores traffic by A/B testing the number of sales compared to incoming items.
+#### Output will be 
+UNUSED FUNDS: 5100
+IF I PAY $15, AND MY STARTING INVESTMENT IS: $6000 
+WITH AN INVENTORY OF: 60 ITEMS
+WHILE I HAVE A PROFIT TARGET OF: $294.2307692307692 BIWEEKLY, 
+MY RETURNS WILL BE: 0.05769230769230769 PER SALE 
+WHILE THE ITEM WILL HAVE A NEW PRICE OF: $16.153846153846153 
+WITH A PRICE RANGE OF: 3.8461538461538467
+OPTIMAL PRICE: 16.153846153846153
+PROFIT OVER THE NEXT YEAR IF FOLLOWED THIS STRATEGY WILL BE: $346.15384615384613 
+FOR ITEMS IN EACH OF THE TEN CATEGORIES THAT COST: $20
+ANNUAL PROFIT: 3461.5384615384614
