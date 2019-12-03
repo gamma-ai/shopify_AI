@@ -2,7 +2,7 @@
 ###### -->QUANTIFYING PRICES TO GAIN A RETURN ON EACH PURCHASE BASED ON LOW TO HIGH PRICES IN RETAIL
 
 ## Overview
-###### starting_balance - 6000 
+###### starting_balance = 6000 
 ###### spent in the 10 categories = 600
 ###### biweekly dropshipping = 26 weeks 
 ###### first 30 items of each category
