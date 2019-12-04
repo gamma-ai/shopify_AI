@@ -31,9 +31,7 @@ This will help us to develop an automated tool to price the items to compete in 
 
 #### Automate the dropshipping process by optimizing the stores traffic by A/B testing the number of sales compared to incoming items.
 #### Output will be 
-(
-
-INVESTED IN EACH OF THE 10 CATEGORIES $600.00
+(INVESTED IN EACH OF THE 10 CATEGORIES $600.00
 UNUSED FUNDS: 5400
 IF I PAY $20.00 PER ITEM , AND MY STARTING INVESTMENT IS: $6000.00 
 WITH AN INVENTORY OF: 20 ITEMS AT AN AVERAGE PRICE OF $24.00
