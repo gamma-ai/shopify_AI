@@ -1,4 +1,4 @@
-## ShopifyAI_API
+## Shopify_automated_price
 ###### -->QUANTIFYING PRICES TO GAIN A RETURN ON EACH PURCHASE BASED ON LOW TO HIGH PRICES IN RETAIL
 
 ## Overview
