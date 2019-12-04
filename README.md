@@ -14,7 +14,7 @@ This algorithm/analysis is broken down to form a simplistic automated pricing to
 #### After this step in the procedure we will be classifying the price versus the item in the category and join the price to the category to optimize classification(Graphs and code are located in shopifai_ai directory).
 
 ### Step 2:
-#### After the first step in the procedure has been finished, the next step will be to calculate  the mean in a  to identify the average price in each of the ten categories in the store.
+#### After the first step in the procedure has been finished, the next step will be to calculate the mean to identify the average price in each of the ten categories in the store.
 (Tops,
 Graphic T's,
 Bottom, 
